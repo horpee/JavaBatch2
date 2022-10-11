@@ -9,10 +9,17 @@ public class Main {
 		m1.hasTails = true;
 		m1.noOfEyes = 2;
 		m1.noOfLegs = 4;
+		m1.colour = "black";
 		System.out.println(m1.hasTails);
 		System.out.println(m1.noOfEyes);
 		System.out.println(m1.noOfLegs);
 		System.out.println(m1.colour);
+		
+		Mouse m2 = new Mouse();
+		
+
+		
+		
 	}
 
 }
