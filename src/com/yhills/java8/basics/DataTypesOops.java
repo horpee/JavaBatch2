@@ -4,7 +4,8 @@ public class DataTypesOops {
 	
 	public static void main(String[] args) {
 		
-		
+		int attendance = 1;
+		attendance++;
 		
 	}
 	

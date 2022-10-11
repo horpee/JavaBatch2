@@ -14,15 +14,13 @@ public class BasicOperators {
 	int y = 90;
 	y++ ;
 	System.out.println(y);
-	
-//	short ew = Short.MAX_VALUE;
+	//	short ew = Short.MAX_VALUE;
 	y-- ;
 	System.out.println(y);
 	
 	int  num = 200;
 	num = ++num - --num + --num + num-- -num++ -num++ + ++num +num++ ;
 			System.out.println(num);
-			
 // shorthand oPerators
 			x+=4; // it simply means x= x+4 = 89+4=93 
 			x-=5; // it simply means x= x-5 =93-5= 88
@@ -69,6 +67,9 @@ public class BasicOperators {
           
           int hex = 0x3789A;
           System.out.println(hex);
+          
+          
+    
           
      }
 }

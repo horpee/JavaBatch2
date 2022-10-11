@@ -12,7 +12,7 @@ public class Mouse {
 	
 	
 	void eat() {
-		System.out.println(spieces + "is eating");
+		System.out.println(spieces +  "is eating");
 	}
 	
 	void sleep () {

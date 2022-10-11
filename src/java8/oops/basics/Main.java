@@ -10,11 +10,12 @@ public class Main {
 		m1.noOfEyes = 2;
 		m1.noOfLegs = 4;
 		m1.colour = "black";
+		m1.spieces = "african rat";
 		System.out.println(m1.hasTails);
 		System.out.println(m1.noOfEyes);
 		System.out.println(m1.noOfLegs);
 		System.out.println(m1.colour);
-		
+		m1.eat();
 		Mouse m2 = new Mouse();
 		
 
